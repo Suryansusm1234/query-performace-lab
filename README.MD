@@ -135,6 +135,3 @@ Use PostgreSQL `EXPLAIN` and `EXPLAIN (ANALYZE, BUFFERS)` to inspect plans and b
 
 The initial design intentionally avoids microservices, application-level caching, message brokers, and complex orchestration. Keeping the system simple helps isolate database behavior and makes baseline performance experiments easier to reproduce.
 
-## License
-
-No license information is currently specified in the repository.
